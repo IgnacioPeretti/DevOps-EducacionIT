@@ -1,4 +1,6 @@
-# Esta fase contiene desafíos centrados en la configuración de pipelines y la automatización de procesos.
+# Automatización y Configuración de Pipelines
+
+Esta fase contiene desafíos centrados en la configuración de pipelines y la automatización de procesos.
 
 
 Los objetivos de estos desafíos son:
