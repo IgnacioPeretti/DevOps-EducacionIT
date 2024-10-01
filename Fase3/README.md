@@ -1,4 +1,4 @@
-# Esta fase contiene una serie de desafíos diseñados para aplicar y consolidar los conocimientos adquiridos en clase.
+# Esta fase contiene una serie de desafíos diseñados para aplicar y consolidar los conocimientos adquiridos.
 
 Los objetivos de estos desafíos son:
 
