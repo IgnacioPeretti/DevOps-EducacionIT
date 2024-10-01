@@ -18,3 +18,5 @@ siguiente post de HashiCorp.
 
 ● (Post Hashicorp) -
 https://developer.hashicorp.com/terraform/tutorials/automation/github-actions
+
+Puede ver el desarrollo en mi otro repositorio https://github.com/IgnacioPeretti/terraform-practica.git
