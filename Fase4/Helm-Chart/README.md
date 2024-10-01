@@ -25,6 +25,5 @@ Requisitos:
 1. Elaborar el Chart para realizar el deployment.
 
 2. Redactar la documentación necesaria.
-```
 
 Podemos ver el desarrollo completo de este desafío en mi repositorio https://github.com/IgnacioPeretti/educacionit-app
