@@ -1,6 +1,6 @@
-Esta fase contiene una serie de desafíos diseñados para aplicar y consolidar los conocimientos adquiridos en clase.
+# Esta fase contiene una serie de desafíos diseñados para aplicar y consolidar los conocimientos adquiridos en clase.
 
-# Los objetivos de estos desafíos son:
+Los objetivos de estos desafíos son:
 
 *Integración de Terraform, GitHub Actions y AWS*: Configurar un provider de AWS utilizando Terraform y GitHub Actions para crear recursos en la nube, demostrando la capacidad de automatizar despliegues en entornos cloud.
 
