@@ -1,5 +1,7 @@
-# Repositorio dedicado a mostrar mis proyectos y desafíos realizados con herramientas del mundo Devops.
+# Bootcamp Projects and Challenges
 
- Encontrarás una variedad de proyectos que abarcan diferentes tecnologías y conceptos.
+Repositorio dedicado a mostrar mis proyectos y desafíos realizados con herramientas del mundo DevOps.
 
- Cada carpeta incluye una breve descripción de cada tarea, así como instrucciones para su ejecución.
+Encontrarás una variedad de proyectos que abarcan diferentes tecnologías y conceptos.
+
+Cada carpeta incluye una breve descripción de cada tarea, así como instrucciones para su ejecución.
