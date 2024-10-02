@@ -1,19 +1,5 @@
 Objetivo:
 
-El objetivo de este desafío es guiar la instalación y configuración de ArgoCD en un entorno
-de Minikube.
+El objetivo de este desafío es implementar y configurar ArgoCD en un entorno de Minikube, facilitando la gestión de despliegues en Kubernetes de manera declarativa mediante prácticas de GitOps.
 
-ArgoCD es una herramienta de GitOps utilizada para gestionar despliegues en
-Kubernetes de manera declarativa.
-
-A través de este ejercicio, se pondrán en práctica los pasos necesarios para
-implementar una infraestructura automatizada de despliegue continuo.
-
-
-Escenario:
-
-Se parte de un entorno local de Kubernetes utilizando Minikube como plataforma de
-desarrollo. El equipo de trabajo ha solicitado la implementación de ArgoCD para gestionar el
-flujo de despliegues de aplicaciones de manera automatizada. Se utilizarán manifiestos de
-Kubernetes y se integrará la plataforma con un repositorio Git para la gestión de
-aplicaciones.
+A lo largo de este ejercicio, veremos la instalación de ArgoCD y pondremos en práctica el despliegue automatizado del Helm Chart desarrollado en el desafío #12, que incluye la aplicación y su base de datos MongoDB.
