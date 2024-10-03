@@ -7,3 +7,5 @@ Posteriormente, se busca implementar un despliegue eficiente de la aplicación y
 En este entorno de Minikube se implementará ArgoCD, lo que permitirá gestionar el despliegue en Kubernetes de manera declarativa siguiendo los principios de GitOps.
 
 Finalmente, se llevará a cabo el despliegue automatizado de la aplicación y su base de datos MongoDB, integrando todas las habilidades y herramientas aprendidas en desafíos anteriores.
+
+Podemos ver el desarrollo completo de esta fase en mi repositorio https://github.com/IgnacioPeretti/educacionit-app.git
