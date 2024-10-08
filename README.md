@@ -1,6 +1,4 @@
-# Bootcamp Devops Engineer   
-
-Registro de mi aprendizaje en este Bootcamp DevOps Engineer.
+# Bootcamp Devops Engineer.
 
 Repositorio dedicado a mostrar mis proyectos y desafíos realizados con herramientas del mundo DevOps.
 
